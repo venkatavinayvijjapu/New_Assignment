@@ -20,6 +20,6 @@ This project uses the **CrewAI framework** to create a multi-agent system that p
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/yourusername/crew-ai-blog-agent.git](https://github.com/venkatavinayvijjapu/New_Assignment.git)
+https://github.com/venkatavinayvijjapu/New_Assignment.git
 cd crew-ai-blog-agent
 ```
