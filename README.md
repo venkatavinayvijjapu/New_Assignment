@@ -121,5 +121,5 @@ The agents will collaborate to fetch, analyze, and write content based on your t
 
 ## 📬 Contact
 
-For help or feedback, feel free to open an issue or reach out via email[venkatavinayvijjapu@gmail.com].
+For help or feedback, feel free to open an issue or reach out via [email](venkatavinayvijjapu@gmail.com).
 
