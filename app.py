@@ -39,7 +39,7 @@ if "prompt" not in st.session_state:
     print(st.session_state.prompt)
 
 if "agent_executor" not in st.session_state:
-    llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", api_key="")
+    llm = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile", api_key=api_key)
     tools = [
         st.session_state.web_tool,
         st.session_state.scraper_tool,
